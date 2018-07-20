@@ -4,6 +4,7 @@ Installation
 Download CMS source-code
 
 Perform the first installation:
+
     install GraphicsMagick
     install $ npm install total.js
     install $ npm install paypal-express-checkout
