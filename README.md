@@ -14,3 +14,7 @@ login: admin
 password: admin
 Basic configuration
 All important values and credentials are stored in application‘s configuration file called /config.
+
+To run de project execute the following command line: 
+
+node debug.js
